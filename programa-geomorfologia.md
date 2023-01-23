@@ -3,7 +3,7 @@
 
 # Programa de “Geomorfología” <br/> Licenciatura en Geografía <br/> Universidad Autónoma de Santo Domingo (UASD)
 
-Agosto 2022 <br/> *José Ramón Martínez Batlle, el tali*
+Enero 2023 <br/> *José Ramón Martínez Batlle, el tali*
 
 ## Básicos:
 

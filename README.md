@@ -4,10 +4,6 @@
 
 * [Programa](programa-geomorfologia.md)
 
-* [Asignaciones prácticas](practicas/README.md)
-
-* [Asignación "Manuscrito""](practicas/practica-99-tu-manuscrito.md)
-
 * Diapositivas
 
     * [Tema 1. Epistemología, conceptos, bases geológicas, introducción a los procesos de la superficie terrestre](https://geomorfologia-master.github.io/tema-1-epistemologia-geologia-intro-procesos/)

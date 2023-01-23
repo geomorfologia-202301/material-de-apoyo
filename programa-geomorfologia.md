@@ -7,15 +7,13 @@ Agosto 2022 <br/> *José Ramón Martínez Batlle, el tali*
 
 ## Básicos:
 
--   Modalidad: presencial
+- Modalidad: presencial
 
--   Correo: <jmartinez19@uasd.edu.do>
+- Correo: <jmartinez19@uasd.edu.do>
 
--   Lugar y horario: FC-203, Lunes de 4 a 8 pm
+- Lugar y horario: FC-203, Lunes de 4 a 8 pm
 
--   [Programa (vínculo recursivo)](programa-geomorfologia.md)
-
-<!-- * [Guía para la redacción de tu manuscrito](guia-redaccion-manuscrito.md) -->
+- [Programa (vínculo recursivo)](programa-geomorfologia.md)
 
 ## Descripción
 
@@ -34,7 +32,7 @@ Comienzo con una cita, primero en su idioma original, luego traducida:
 > cual “nos \[te\] interesa \[para aprobar o para lo que veas\]”
 > aprender a leer (Anderson & Anderson, 2010).
 
-Guarda ésto: “…el principal proceso activo…,” y quédate también con esta
+Guarda ésto: “…el principal proceso activo…”, y quédate también con esta
 otra cita:
 
 > La Geomorfología, como otras ramas de la ciencia, necesita pasar de la
@@ -74,18 +72,16 @@ de desastres.
 
 ## Evaluación
 
-| Ítem                                                       | % de la  nota final |
-|------------------------------------------------------------|--------------------:|
-| [Prácticas](#prácticas)                                    |                 40% |
-| [Manuscrito (basado en datos pre-existentes)](#manuscrito) |                 50% |
-| [Presentación oral](#presentación-oral)                    |                 10% |
-
-Sí sí, lo que viste, no hay examen.
+| Ítem                            | % de la  nota final |
+|---------------------------------|--------------------:|
+| [Prácticas](#prácticas)         |                 30% |
+| Pruebas                         |                 60% |
+| Participaciones, presentaciones |                 10% |
 
 Brevemente, cada ítem a evaluar consistirá en lo siguiente (más detalles
 por medio de asignaciones a lo largo del curso):
 
-### Prácticas
+### Temas de las prácticas
 
 Aplicaciones de las siguientes técnicas a la geomorfología:
 
@@ -112,164 +108,50 @@ al que te enfrentas, cómo has intentado resolverlo o qué soluciones has
 probado. Si se trata de alguna cuestión relacionada con programación o
 análisis de datos, deberás facilitar **código reproducible y mensaje de
 error (si lo hubiere)**. Cuando escribas tus dudas, no recurras al
-típico “da error,” puesto que no conduce a nada. En su lugar prefiere
+típico “da error”, puesto que no conduce a nada. En su lugar prefiere
 estas expresiones *“intente este procedimiento … , dio este error, luego
 intenté esta solución … pero no consigo dar con el fallo”*.
 
-### Manuscrito
-
-Tratará sobre un tema de geomorfología del contenido teórico (ver al
-final) que te resulte de interés. En general, trabajarás sobre procesos
-geomorfológicos en morfosistemas o elementos morfológicos específicos
-elegidos por ti.
-
-#### Temas sugeridos
-
-Algunos ejemplos concretos agrupados por temas:
-
-1.  Geomorfología tectónica: deformación, ¿depósitos? (difíciles de
-    conseguir), perfiles de ríos afectados.
-
-2.  Procesos fluviales (ríos y relacionados): evolución de canales,
-    distribución de depósitos, inundaciones, abanicos aluviales,
-    cuencas.
-
-3.  procesos de Vertientes: debris flows, deslizamientos, geometría de
-    vertientes.
-
-4.  Procesos litorales: costas rocosas, costas no rocosas, evolución,
-    depósitos.
-
-5.  Procesos eólicas: depósitos, dunas, evolución.
-
-6.  Morfosistema kárstico: morfometría kárstica, procesos, depósitos,
-    evolución.
-
-#### Fases de desarrollo
-
-Elaborarás tu manuscrito siguiendo estas fases:
-
-1.  Formulación del problema/pregunta(s) de investigación, siendo
-    preceptiva la sencillez de diseño. Las preguntas de investigación a
-    responder las diseñarás tú. Consulta al profesor para construir tus
-    preguntas en una sesión de clase, para que las preguntas formuladas
-    sean “respondibles” sin caer en simplismos.
-
-2.  Revisión bibliográfica. Busca fuentes en línea, pero evita abrumarte
-    con la enorme disponibilidad de publicaciones científicas sobre
-    geomorfología. Prefiere las publicaciones disponibles en acceso
-    libre, y no olvides el [Sci-Hub](https://sci-hub.se).
-
-3.  Selección de metodología, incluyendo técnicas cuantitativas de forma
-    preceptiva.
-
-4.  Recogida de datos, ya fuese un modelo digital de elevaciones (DEM) o
-    por levantamientos en campo.
-
-5.  Análisis de datos.
-
-6.  Redacción. Volver eterna y recursivamente a 5 hasta que la redacción
-    quede “nítida.”
-
-#### Criterios de evaluación del manuscrito
-
-Los criterios de evaluación que usaré para el manuscrito son:
-
-1.  Cumplimiento de los requisitos exigidos por el [Anuario de
-    Investigaciones
-    Científicas](https://www.uasd.edu.do/index.php/publicaciones-cientificas)
-    de la UASD.
-
-2.  Redacción coherente y concisa.
-
-3.  Resultados, con el debido apoyo estadístico y gráfico, que respondan
-    a las preguntas formuladas.
-
-4.  Concisa extracción de conclusiones.
-
-Para preparar tu manuscrito, sigue las normas para autores/as del
-[Anuario de Investigaciones Científicas de la
-UASD](docs/instrucciones-para-autores-anuario-investigaciones-cientificas-UASD.pdf).
-Fungiré como editor ficticio de la revista, e incluso como revisor
-(*reviewer \#2*).
-
--   Como verás, el manuscrito requiere los siguientes ítems:
-
-    -   Título.
-    -   Nombre de autor/a.
-    -   Resumen y palabras clave.
-    -   *Abstract* y *keywords* (optativo).
-    -   Introducción
-    -   Metodología.
-    -   Resultados.
-    -   Discusión.
-    -   Agradecimientos (optativo).
-    -   Referencias citadas.
-    -   *Script* reproducible
-    -   Declaración de cumplimientos legales y de no conflictos de
-        intereses (optativo).
-    -   Otros requerimientos (ponle atención también a esta parte en las
-        [normas](docs/instrucciones-para-autores-anuario-investigaciones-cientificas-UASD.pdf)).
-
--   Toma en consideración lo siguiente:
-
-    -   No impartiré lecciones sobre redacción ni sobre procesadores de
-        texto, por lo que te recomiendo consultar material tanto vía web
-        como en el economato para mejorar dichas capacidades.
-
-    -   El plagio y la falsificación de datos supondrán la reprobación
-        inmediata de la asignatura.
-
-    -   Te recomiendo consultar [uno o varios artículos de cualquier
-        número del
-        Anuario](https://www.uasd.edu.do/index.php/publicaciones-cientificas),
-        para que te familiarices con el estilo de redacción.
-
-### Presentación oral
-
-Dispondrás de 15 minutos para presentar oralmente tu trabajo al final
-del semestre. Valoraré el dominio que muestres del tema y de tus
-resultados.
-
 ## Contenido teórico de la asignatura
 
--   Tema 1. Epistemología, conceptos, bases geológicas e introducción a
-    los procesos de la superficie terrestre. Páginas en Gutiérrez
-    Elorza (2008): 1 a 45, ambas inclusive. Páginas Anderson &
-    Anderson (2010): 1 a 15, ambas inclusive.
+Las pruebas desarrollarán instancias prácticas del siguiente contenido
+teórico.
 
--   Tema 2. Tiempo en geomorfología. Técnicas de datación relativas,
-    técnicas de datación absoluta. En Gutiérrez Elorza (2008): páginas
-    52 a 54, ambas inclusive. En Anderson & Anderson (2010): capítulo 6.
+- Tema 1. Epistemología, conceptos, bases geológicas e introducción a
+  los procesos de la superficie terrestre. Páginas en Gutiérrez Elorza
+  (2008): 1 a 45, ambas inclusive. Páginas Anderson & Anderson (2010): 1
+  a 15, ambas inclusive.
 
--   Tema 3. Meteorización y formas resultantes. En Gutiérrez
-    Elorza (2008): capítulo 5. En Anderson & Anderson (2010):
-    capítulo 7.
+- Tema 2. Tiempo en geomorfología. Técnicas de datación relativas,
+  técnicas de datación absoluta. En Gutiérrez Elorza (2008): páginas 52
+  a 54, ambas inclusive. En Anderson & Anderson (2010): capítulo 6.
 
--   Tema 4. Procesos fluviales. Conceptos básicos de hidrología e
-    hidráulica fluvial, procesos fluviales. Formas y depósitos fluviales
-    (aluvionamientos, terrazas, diques, barras, etc.), abanicos. En
-    Gutiérrez Elorza (2008): capítulos 8 y 9.
+- Tema 3. Meteorización y formas resultantes. En Gutiérrez Elorza
+  (2008): capítulo 5. En Anderson & Anderson (2010): capítulo 7.
 
--   Tema 5. Procesos de laderas y movimientos en masa. Laderas, balance
-    de masa, y otros. Procesos elementales: rainsplash, solifluxión,
-    procesos biogeomorfológicos, y otros. Movimientos de masa (procesos
-    gravitacionales/de laderas): principios físicos, tipologías (caída,
-    deslizamiento, flujo, reptación), debris flow, modelos de
-    laderas/morfometría. En Gutiérrez Elorza (2008): capítulo 7.
+- Tema 4. Procesos fluviales. Conceptos básicos de hidrología e
+  hidráulica fluvial, procesos fluviales. Formas y depósitos fluviales
+  (aluvionamientos, terrazas, diques, barras, etc.), abanicos. En
+  Gutiérrez Elorza (2008): capítulos 8 y 9.
 
--   Tema 6. Procesos litorales. Aguas marinas litorales, productos
-    característicos de la dinámica litoral. Básicos: conceptos, dinámica
-    de las aguas litorales (oleajes, mareas, corrientes). Zonas,
-    subzonas, elementos del litoral, productos morfológicos (costas
-    arenosas, costas rocosas). En Gutiérrez Elorza (2008): capítulo 11.
+- Tema 5. Procesos de laderas y movimientos en masa. Laderas, balance de
+  masa, y otros. Procesos elementales: rainsplash, solifluxión, procesos
+  biogeomorfológicos, y otros. Movimientos de masa (procesos
+  gravitacionales/de laderas): principios físicos, tipologías (caída,
+  deslizamiento, flujo, reptación), debris flow, modelos de
+  laderas/morfometría. En Gutiérrez Elorza (2008): capítulo 7.
 
--   Tema 7. Geomorfología kárstica. En Gutiérrez Elorza (2008):
-    capítulo 6.
+- Tema 6. Procesos litorales. Aguas marinas litorales, productos
+  característicos de la dinámica litoral. Básicos: conceptos, dinámica
+  de las aguas litorales (oleajes, mareas, corrientes). Zonas, subzonas,
+  elementos del litoral, productos morfológicos (costas arenosas, costas
+  rocosas). En Gutiérrez Elorza (2008): capítulo 11.
 
--   Tema 8. Geomorfología climática: medios áridos y semi-áridos,
-    dominio tropical. En Gutiérrez Elorza (2008): capítulos 12, 16, 17
-    y 18.
+- Tema 7. Geomorfología kárstica. En Gutiérrez Elorza (2008): capítulo
+  6.
+
+- Tema 8. Geomorfología climática: medios áridos y semi-áridos, dominio
+  tropical. En Gutiérrez Elorza (2008): capítulos 12, 16, 17 y 18.
 
 ## Referencias
 

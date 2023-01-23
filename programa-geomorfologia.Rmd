@@ -30,8 +30,6 @@ Agosto 2022 <br/>
 
 * [Programa (vínculo recursivo)](programa-geomorfologia.md)
 
-<!-- * [Guía para la redacción de tu manuscrito](guia-redaccion-manuscrito.md) -->
-
 ## Descripción
 
 Comienzo con una cita, primero en su idioma original, luego traducida:
@@ -60,15 +58,13 @@ La geomorfología de procesos no sería posible sin el avance de los últimos si
 
 | Ítem | % de la \ nota final |
 |-|-:|
-| [Prácticas](#prácticas) | 40% |
-| [Manuscrito (basado en datos pre-existentes)](#manuscrito) | 50% |
-| [Presentación oral](#presentación-oral) | 10% |
-
-Sí sí, lo que viste, no hay examen.
+| [Prácticas](#prácticas) | 30% |
+| Pruebas | 60% |
+| Participaciones, presentaciones | 10% |
 
 Brevemente, cada ítem a evaluar consistirá en lo siguiente (más detalles por medio de asignaciones a lo largo del curso):
 
-### Prácticas
+### Temas de las prácticas
 
 Aplicaciones de las siguientes técnicas a la geomorfología:
 
@@ -88,84 +84,9 @@ Estas asignaciones te ayudarán a manejar herramientas (algunas reproducibles) e
 
 Orientaré con ejemplos y soluciones de forma pública en las sesiones de clases. De esta forma, las discusiones quedarán disponibles para otras personas. Cuando necesites hacer consultas, debes plantear el problema al que te enfrentas, cómo has intentado resolverlo o qué soluciones has probado. Si se trata de alguna cuestión relacionada con programación o análisis de datos, deberás facilitar **código reproducible y mensaje de error (si lo hubiere)**. Cuando escribas tus dudas, no recurras al típico "da error", puesto que no conduce a nada. En su lugar prefiere estas expresiones *"intente este procedimiento ... , dio este error, luego intenté esta solución ... pero no consigo dar con el fallo"*.
 
-### Manuscrito
-
-Tratará sobre un tema de geomorfología del contenido teórico (ver al final) que te resulte de interés. En general, trabajarás sobre procesos geomorfológicos en morfosistemas o elementos morfológicos específicos elegidos por ti.
-
-#### Temas sugeridos
-
-Algunos ejemplos concretos agrupados por temas:
-
-a. Geomorfología tectónica: deformación, ¿depósitos? (difíciles de conseguir), perfiles de ríos afectados.
-    
-b. Procesos fluviales (ríos y relacionados): evolución de canales, distribución de depósitos, inundaciones, abanicos aluviales, cuencas.
-    
-c. procesos de Vertientes: debris flows, deslizamientos, geometría de vertientes.
-    
-d. Procesos litorales: costas rocosas, costas no rocosas, evolución, depósitos. 
-    
-e. Procesos eólicas: depósitos, dunas, evolución.
-    
-f. Morfosistema kárstico: morfometría kárstica, procesos, depósitos, evolución.
-
-#### Fases de desarrollo
-
-Elaborarás tu manuscrito siguiendo estas fases:
-
-1. Formulación del problema/pregunta(s) de investigación, siendo preceptiva la sencillez de diseño. Las preguntas de investigación a responder las diseñarás tú. Consulta al profesor para construir tus preguntas en una sesión de clase, para que las preguntas formuladas sean "respondibles" sin caer en simplismos.
-
-2. Revisión bibliográfica. Busca fuentes en línea, pero evita abrumarte con la enorme disponibilidad de publicaciones científicas sobre geomorfología. Prefiere las publicaciones disponibles en acceso libre, y no olvides el [Sci-Hub](https://sci-hub.se).
-
-3. Selección de metodología, incluyendo técnicas cuantitativas de forma preceptiva.
-
-4. Recogida de datos, ya fuese un modelo digital de elevaciones (DEM) o por levantamientos en campo.
-
-5. Análisis de datos.
-
-6. Redacción. Volver eterna y recursivamente a 5 hasta que la redacción quede "nítida".
-
-#### Criterios de evaluación del manuscrito
-
-Los criterios de evaluación que usaré para el manuscrito son:
-
-1. Cumplimiento de los requisitos exigidos por el [Anuario de Investigaciones Científicas](https://www.uasd.edu.do/index.php/publicaciones-cientificas) de la UASD.
-
-2. Redacción coherente y concisa.
-
-3. Resultados, con el debido apoyo estadístico y gráfico, que respondan a las preguntas formuladas.
-
-4. Concisa extracción de conclusiones.
-
-Para preparar tu manuscrito, sigue las normas para autores/as del [Anuario de Investigaciones Científicas de la UASD](docs/instrucciones-para-autores-anuario-investigaciones-cientificas-UASD.pdf). Fungiré como editor ficticio de la revista, e incluso como revisor (*reviewer&nbsp;#2*).
-
-* Como verás, el manuscrito requiere los siguientes ítems:
-    * Título.
-    * Nombre de autor/a.
-    * Resumen y palabras clave.
-    * *Abstract* y *keywords* (optativo).
-    * Introducción
-    * Metodología.
-    * Resultados.
-    * Discusión.
-    * Agradecimientos (optativo).
-    * Referencias citadas.
-    * *Script* reproducible
-    * Declaración de cumplimientos legales y de no conflictos de intereses (optativo).
-    * Otros requerimientos (ponle atención también a esta parte en las [normas](docs/instrucciones-para-autores-anuario-investigaciones-cientificas-UASD.pdf)).
-
-* Toma en consideración lo siguiente:
-
-    * No impartiré lecciones sobre redacción ni sobre procesadores de texto, por lo que te recomiendo consultar material tanto vía web como en el economato para mejorar dichas capacidades.
-
-    * El plagio y la falsificación de datos supondrán la reprobación inmediata de la asignatura.
-
-    * Te recomiendo consultar [uno o varios artículos de cualquier número del Anuario](https://www.uasd.edu.do/index.php/publicaciones-cientificas), para que te familiarices con el estilo de redacción.
-
-### Presentación oral
-
-Dispondrás de 15 minutos para presentar oralmente tu trabajo al final del semestre. Valoraré el dominio que muestres del tema y de tus resultados.
-
 ## Contenido teórico de la asignatura
+
+Las pruebas desarrollarán instancias prácticas del siguiente contenido teórico.
 
 * Tema 1. Epistemología, conceptos, bases geológicas e introducción a los procesos de la superficie terrestre. Páginas en @gutierrez2008geomorfologia: 1 a 45, ambas inclusive. Páginas @anderson2010geomorphology: 1 a 15, ambas inclusive.
 
